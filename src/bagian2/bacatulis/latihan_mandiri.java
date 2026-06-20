@@ -29,7 +29,7 @@ public class latihan_mandiri {
 
         // latihan 2
         System.out.println("\n\n --- Latihan 2");
-
+        
         // tambah isinya
         try (PrintWriter penulis = new PrintWriter(new FileWriter("hari.txt", true))) {
             penulis.println("Sabtu");
