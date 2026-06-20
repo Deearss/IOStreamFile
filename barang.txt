@@ -1,0 +1,5 @@
+Aqua Botol;4000.0;12
+Barbel;400000.0;14
+Laptop Axioo;4000000.0;5
+Laptop Advan;7000000.0;8
+Treadmill;3500000.0;9
