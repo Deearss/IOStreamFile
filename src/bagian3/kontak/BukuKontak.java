@@ -36,6 +36,7 @@ public class BukuKontak {
         if (kontak != null) {
             System.out.println("nama : " + kontak.getNama());
             System.out.println("nomor : " + kontak.getNomor());
+            System.out.println("email : " + kontak.getEmail());
         } else {
             System.out.println("Kontak '" + nama + "' tidak Ditemukan!");
         }
